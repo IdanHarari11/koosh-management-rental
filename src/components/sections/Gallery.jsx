@@ -8,14 +8,14 @@ import Image from 'next/image';
 import Skeleton from '../ui/Skeleton';
 
 const images = [
-  { url: '/images/v2/WhatsApp Image 2025-04-14 at 01.47.15.jpeg', alt: 'living room' },
-  { url: '/images/v2/WhatsApp Image 2025-04-14 at 01.47.15 (1).jpeg', alt: 'bedroom' },
-  { url: '/images/v2/WhatsApp Image 2025-04-14 at 01.47.16.jpeg', alt: 'Living Room' },
-  { url: '/images/v2/WhatsApp Image 2025-04-14 at 01.47.16 (1).jpeg', alt: 'Kitchen' },
-  { url: '/images/v2/WhatsApp Image 2025-04-14 at 01.47.15 (2).jpeg', alt: 'bedroom' },
-  { url: '/images/v2/WhatsApp Image 2025-04-14 at 01.48.08 (1).jpeg', alt: 'Study' },
+  { url: '/images/v3/kitchen.avif', alt: 'Kitchen' },
+  { url: '/images/v3/sofa.avif', alt: 'living room' },
+  { url: '/images/v3/bedroom2.avif', alt: 'Bedroom Room' },
   { url: '/images/38acfcb3-bfa9-41e4-bc69-3ab0b6db18c4.avif', alt: 'living room' },
-  { url: '/images/7a278e47-9e3c-46dd-adda-d54125c62ccb.jpeg', alt: 'bathroom' },
+  { url: '/images/v3/bathroom.avif', alt: 'bathroom' },
+  { url: '/images/v3/balcony.avif', alt: 'Balcony' },
+  { url: '/images/v3/gym.avif', alt: 'Gym' },
+  { url: '/images/v3/pool.avif', alt: 'Pool' },
 ];
 
 const Gallery = () => {

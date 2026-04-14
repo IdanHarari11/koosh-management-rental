@@ -71,12 +71,9 @@ const GuestFeedback = () => {
         delay: 3000,
         disableOnInteraction: false,
       },
-      pagination: {
-        clickable: true,
-      },
       breakpoints: {
         640: {
-          slidesPerView: 2,
+          slidesPerView: 3,
         },
         1024: {
           slidesPerView: 3,

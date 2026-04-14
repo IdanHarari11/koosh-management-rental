@@ -8,9 +8,9 @@ import Skeleton from '../ui/Skeleton';
 
 const backgroundImages = [
   '/images/7f6dc8f1-3fd1-4a33-a24c-9f349be21a8c.avif',
-  '/images/bf05672d-8bf4-4e89-8842-7a370be30d7a.avif',
-  '/images/dbaac64d-e306-4e05-b51a-111e01ebeda6.avif',
+  '/images/v3/sofa.avif',
   '/images/d6f455d7-7608-463a-badd-c7222f20581d.webp',
+  '/images/v3/sofa2.avif',
 ];
 
 const Hero = () => {
