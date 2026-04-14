@@ -16,7 +16,7 @@ const VillaDetails = () => {
       name: 'Fully Furnished & Designed Apartment',
       image: '/images/v2/WhatsApp Image 2025-04-14 at 01.47.16 (1).jpeg',
       desc: 'Modern, White + Cream Aesthetic design, perfect for families & hi-tech professionals.',
-      capacity: 4,
+      capacity: 6,
       bedrooms: 2,
       bathrooms: 1,
       features: [
